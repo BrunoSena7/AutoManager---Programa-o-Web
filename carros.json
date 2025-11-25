@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "marca": "Renault",
+        "modelo": "Clio",
+        "ano": 2004,
+        "preco": 12000
+    }
+]
